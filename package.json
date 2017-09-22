@@ -1,0 +1,29 @@
+{
+  "name": "my_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "D:\\MongoDB\\Server\\3.4\\bin\\mongod.exe"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "git": "^0.1.5",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^4.3.0",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^4.9.4",
+    "mongoose-delete": "^0.3.4",
+    "should": "^11.2.1",
+    "sinon": "^2.1.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp-env": "^0.4.0",
+    "supertest": "^3.0.0"
+  }
+}

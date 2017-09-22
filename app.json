@@ -1,0 +1,5 @@
+{
+    "name": "my_api",
+    "description": "A node.js app using Express and MongoDB",
+    "repository": "https://github.com/Amiryy/Node-Environment---Books.git"    
+}
